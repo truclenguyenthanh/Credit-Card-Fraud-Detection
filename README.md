@@ -32,10 +32,10 @@ Neural Networks with TensorFlow
 
 * Usage: Ideal for data science enthusiasts, financial analysts, or anyone interested in understanding how machine learning can be applied to detect anomalies and protect against fraud.
 
-# Dependencies:
+## Dependencies:
 Python, Pandas, Scikit-learn, TensorFlow, Matplotlib, Seaborn, and other standard data science libraries.
 
-# Contribution:
+## Contribution:
 Feel free to fork, raise issues, or submit pull requests. Your feedback and contributions are welcome!
 
 
